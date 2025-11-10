@@ -7,7 +7,7 @@ package com.mycompany.ed_p3_grupo06;
 
 /**
  *
- * @author david
+ * @author Grupo 3
  */
 public class VentanaInicio extends javax.swing.JFrame {
 
